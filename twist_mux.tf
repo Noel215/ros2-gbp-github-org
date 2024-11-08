@@ -1,7 +1,7 @@
 locals {
   twist_mux_team = [
-    "bmagyar",
     "Noel215",
+    "bmagyar",
   ]
   twist_mux_repositories = [
     "twist_mux-release",

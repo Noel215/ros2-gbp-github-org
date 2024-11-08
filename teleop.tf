@@ -1,7 +1,7 @@
 locals {
   teleop_team = [
-    "bmagyar",
     "Noel215",
+    "bmagyar",
   ]
   teleop_repositories = [
     "teleop_tools-release",
